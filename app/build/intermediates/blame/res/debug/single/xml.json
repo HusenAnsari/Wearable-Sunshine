@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "G:\\p6\\project\\geniushkg\\Wearable-Sunshine-master\\app\\build\\intermediates\\res\\merged\\debug\\xml\\widget_info_detail.xml",
+        "source": "G:\\p6\\project\\geniushkg\\Wearable-Sunshine-master\\app\\src\\main\\res\\xml\\widget_info_detail.xml"
+    },
+    {
+        "merged": "G:\\p6\\project\\geniushkg\\Wearable-Sunshine-master\\app\\build\\intermediates\\res\\merged\\debug\\xml\\widget_info_today.xml",
+        "source": "G:\\p6\\project\\geniushkg\\Wearable-Sunshine-master\\app\\src\\main\\res\\xml\\widget_info_today.xml"
+    },
+    {
+        "merged": "G:\\p6\\project\\geniushkg\\Wearable-Sunshine-master\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_general.xml",
+        "source": "G:\\p6\\project\\geniushkg\\Wearable-Sunshine-master\\app\\src\\main\\res\\xml\\pref_general.xml"
+    },
+    {
+        "merged": "G:\\p6\\project\\geniushkg\\Wearable-Sunshine-master\\app\\build\\intermediates\\res\\merged\\debug\\xml\\syncadapter.xml",
+        "source": "G:\\p6\\project\\geniushkg\\Wearable-Sunshine-master\\app\\src\\main\\res\\xml\\syncadapter.xml"
+    },
+    {
+        "merged": "G:\\p6\\project\\geniushkg\\Wearable-Sunshine-master\\app\\build\\intermediates\\res\\merged\\debug\\xml\\authenticator.xml",
+        "source": "G:\\p6\\project\\geniushkg\\Wearable-Sunshine-master\\app\\src\\main\\res\\xml\\authenticator.xml"
+    }
+]

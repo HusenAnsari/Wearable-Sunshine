@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Husen Ansari\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.5.2\ecf534dba3a8446ce84cbb797d314763be212a68\glide-3.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="G:\p6\project\geniushkg\Wearable-Sunshine-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.5.2_1fae6588152f1d903fd47542741cfd3617e3793c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\p6\project\geniushkg\Wearable-Sunshine-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="G:\p6\project\geniushkg\Wearable-Sunshine-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_f1d7eaa280f673bcc6779e07bc7573aa784c0e77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\p6\project\geniushkg\Wearable-Sunshine-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="G:\p6\project\geniushkg\Wearable-Sunshine-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_1ac250dc60115ab6b9f24dcd06f5544ee9a6049c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\p6\project\geniushkg\Wearable-Sunshine-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="G:\p6\project\geniushkg\Wearable-Sunshine-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_ba92ba17c2dd4e8d5714666f0a07e12148a7835e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\p6\project\geniushkg\Wearable-Sunshine-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="G:\p6\project\geniushkg\Wearable-Sunshine-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_c67d3b02874747f1af5480e7448a1493501c4ac0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\p6\project\geniushkg\Wearable-Sunshine-master\app\build\intermediates\exploded-aar\com.android.support\design\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="G:\p6\project\geniushkg\Wearable-Sunshine-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.0.0_ea5a58f7b9bad8650d7a0950b371d60ab846f73d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Husen Ansari\.gradle\caches\modules-2\files-2.1\com.google.android.apps.muzei\muzei-api\2.0\ea86be2a201e6ad86dacffe774dbc6d89fcb0c92\muzei-api-2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea86be2a201e6ad86dacffe774dbc6d89fcb0c92">
+        <dex dex="G:\p6\project\geniushkg\Wearable-Sunshine-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\muzei-api-2.0_3979f35a8f55faa9eab8c78bc25306ec51a515d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\p6\project\geniushkg\Wearable-Sunshine-master\wearable\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="G:\p6\project\geniushkg\Wearable-Sunshine-master\wearable\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_0fe788bad0b7664975123ac171615f371b1d3726\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\p6\project\geniushkg\Wearable-Sunshine-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="G:\p6\project\geniushkg\Wearable-Sunshine-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_6719a4b10c3809ddb62b3ad4cb516059d548e622\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\p6\project\geniushkg\Wearable-Sunshine-master\wearable\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="G:\p6\project\geniushkg\Wearable-Sunshine-master\wearable\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_3170f0c48fc08047bb1adf9ded8504f64546860d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\p6\project\geniushkg\Wearable-Sunshine-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="G:\p6\project\geniushkg\Wearable-Sunshine-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_aabebe7d6c3cff15c3dbf0eb0cede6e6d5ce6fc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\p6\project\geniushkg\Wearable-Sunshine-master\wearable\build\intermediates\exploded-aar\com.google.android.support\wearable\2.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="198f86964d1fe34215742672a4e095f916f0f4d9">
+        <dex dex="G:\p6\project\geniushkg\Wearable-Sunshine-master\wearable\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.support-wearable-2.0.0-alpha1_ef798498c30caec467d660305ebd872569323cb4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\p6\project\geniushkg\Wearable-Sunshine-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="G:\p6\project\geniushkg\Wearable-Sunshine-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.0_92ba74e7a6b21ddaa2cb607afb98e04af3387463\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\p6\project\geniushkg\Wearable-Sunshine-master\wearable\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fe962fc4e5904db2eee4791dae7a0282d7119639">
+        <dex dex="G:\p6\project\geniushkg\Wearable-Sunshine-master\wearable\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_cd9055952d69679ee3ed6cd7ce842a1b5fd1401f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\p6\project\geniushkg\Wearable-Sunshine-master\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1618fd467fb5971c394741e8976ededb97aaee0a">
+        <dex dex="G:\p6\project\geniushkg\Wearable-Sunshine-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-gridlayout-v7-23.0.0_01ab91d96170e8c8d84620093aa11ad66c53f205\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\p6\project\geniushkg\Wearable-Sunshine-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="G:\p6\project\geniushkg\Wearable-Sunshine-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.0.0_bd829a222098f8470f88f9079e0658fdfae397cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\p6\project\geniushkg\Wearable-Sunshine-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="G:\p6\project\geniushkg\Wearable-Sunshine-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_6afb7fccd1514136560b96561d807ad9bbf40074\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\p6\project\geniushkg\Wearable-Sunshine-master\wearable\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="G:\p6\project\geniushkg\Wearable-Sunshine-master\wearable\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_ba9c37d8228d5ae03a53b9be1a58a8caceb9ff11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\p6\project\geniushkg\Wearable-Sunshine-master\wearable\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="G:\p6\project\geniushkg\Wearable-Sunshine-master\wearable\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_3994c0e4b981a7164aadd509b3a6d2a9326d4024\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\p6\project\geniushkg\Wearable-Sunshine-master\wearable\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7bf15b8e52847607ff9a3cbeeb7e252b4b26f47">
+        <dex dex="G:\p6\project\geniushkg\Wearable-Sunshine-master\wearable\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8c7ef7f1092fd9e2bb8c62a091f1ddac93c0b911\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\p6\project\geniushkg\Wearable-Sunshine-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="G:\p6\project\geniushkg\Wearable-Sunshine-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_66ff66caf55baf900fc6f92e1bd4c588cef0dc95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\p6\project\geniushkg\Wearable-Sunshine-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="G:\p6\project\geniushkg\Wearable-Sunshine-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_4fd6b624e53ecad68b76859c6e9e695a025a515c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\p6\project\geniushkg\Wearable-Sunshine-master\wearable\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="G:\p6\project\geniushkg\Wearable-Sunshine-master\wearable\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_72a336ad8fb9c510beff481c1c2fb3bf98a92fab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\p6\project\geniushkg\Wearable-Sunshine-master\wearable\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="G:\p6\project\geniushkg\Wearable-Sunshine-master\wearable\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_3a81fa3fb3042d40291d475219abce6efc2e8899\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\p6\project\geniushkg\Wearable-Sunshine-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3f853596ac094f67ed03b160dd27eaeb3fe36e35">
+        <dex dex="G:\p6\project\geniushkg\Wearable-Sunshine-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2b112bff88cbcf18bfc338b6fdbb7b99f336f592\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\p6\project\geniushkg\Wearable-Sunshine-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="G:\p6\project\geniushkg\Wearable-Sunshine-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_22ff7781b2098e32c8522ea9b9298e8c3ba26a12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\p6\project\geniushkg\Wearable-Sunshine-master\wearable\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="G:\p6\project\geniushkg\Wearable-Sunshine-master\wearable\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.0.1_141a4cdc9cef54f73cdccdf56405c3b9a06f71eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\p6\project\geniushkg\Wearable-Sunshine-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2342ce212603a355955738d2405f14d2967d084e">
+        <dex dex="G:\p6\project\geniushkg\Wearable-Sunshine-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_05f07c553c972b9f4a53f9de0d56412619cb3586\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\sdk1\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="G:\p6\project\geniushkg\Wearable-Sunshine-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_9702ec33531f6b348760e66decd73ee9025bdf0e\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "G:\\p6\\project\\geniushkg\\Wearable-Sunshine-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "G:\\p6\\project\\geniushkg\\Wearable-Sunshine-master\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "G:\\p6\\project\\geniushkg\\Wearable-Sunshine-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\detail.xml",
+        "source": "G:\\p6\\project\\geniushkg\\Wearable-Sunshine-master\\app\\src\\main\\res\\menu\\detail.xml"
+    },
+    {
+        "merged": "G:\\p6\\project\\geniushkg\\Wearable-Sunshine-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\detailfragment.xml",
+        "source": "G:\\p6\\project\\geniushkg\\Wearable-Sunshine-master\\app\\src\\main\\res\\menu\\detailfragment.xml"
+    },
+    {
+        "merged": "G:\\p6\\project\\geniushkg\\Wearable-Sunshine-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\forecastfragment.xml",
+        "source": "G:\\p6\\project\\geniushkg\\Wearable-Sunshine-master\\app\\src\\main\\res\\menu\\forecastfragment.xml"
+    }
+]
